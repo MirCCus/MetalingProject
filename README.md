@@ -39,7 +39,11 @@ The original Omeka structure is organized hierarchically as follows:
   #### Subcorpus C
     Items
 
-Each CSV row represents a single item. The columns correspond to the Omeka metadata Dublin Core fields. 
+### Top-level collection and Subcorpora are contained in:
+  collections_output.csv
+### Items metadata, geolocation and tags:
+  are logically linked together through the id field
+
 This layout preserves the hierarchical collection structure conceptually, and fields such as collection_id allow users to reconstruct the subcorpus membership.
 
 ## Data Sources
