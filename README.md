@@ -1,4 +1,4 @@
-# MetalingProject
+# Metaling Project
 
 ## Overview
 
