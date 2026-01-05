@@ -1,0 +1,4 @@
+id,Text,exhibit_id,order,slug,title
+1,"<h2>Non-standard English, cants, dialects</h2>",2,0,subcorpus-a,Subcorpus A
+2,"<h2>Rhetoric, prosody, rhyme, pronunciation, elocution, phonetics</h2>",2,2,subcorpus-c,Subcorpus C
+3,"<h2>Miscellaneous works dealing with various aspects of English: grammar, non-technical glossaries, theory of grammar</h2>",2,1,subcorpus-b,Subcorpus B

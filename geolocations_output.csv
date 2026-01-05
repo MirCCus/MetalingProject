@@ -1,0 +1,26 @@
+id,address,item_id,latitude,longitude,map_type,zoom_level
+1,tickhill,15,53.4369918,-1.1025068,Leaflet,5
+2,"lincoln, england",16,53.2293545,-0.5404819,Leaflet,5
+3,"Partney, Lincolnshire",17,53.1941544,0.1032288,Leaflet,5
+4,"Morley, West Yorkshire",18,53.7440745,-1.5988598,Leaflet,5
+5,netherlands,1,52.2434979,5.6343227,Leaflet,5
+6,netherlands,2,52.2434979,5.6343227,Leaflet,6
+7,netherlands,3,52.2434979,5.6343227,Leaflet,6
+8,Lavendon,19,52.1734122,-0.6603317,Leaflet,15
+9,"bedford, england",20,52.1363806,-0.4675041,Leaflet,12
+10,Carmarthenshire,22,51.8936698,-4.2172827,Leaflet,6
+11,"lanchester, england",23,54.8220065,-1.7429518,Leaflet,6
+12,"carlisle, cumbria",24,54.8908157,-2.9223991,Leaflet,6
+13,london,25,51.4893335,-0.1440551,Leaflet,6
+14,"Hintlesham, Suffolk",26,52.049283,1.0428109,Leaflet,5
+15,"Llangristiolus, Anglesey ",27,53.2353576,-4.3465439,Leaflet,5
+16,london,28,51.4893335,-0.1440551,Leaflet,5
+17,Brecknockshire,14,52.0119258,-3.3762918,Leaflet,5
+18,Brecknockshire,13,52.0119258,-3.3762918,Leaflet,5
+19,london,11,51.5074456,-0.1277653,Leaflet,5
+20,"Black Notley, Essex",8,51.8474004,0.5458143,Leaflet,5
+21,"Black Notley, Essex",7,51.8474004,0.5458143,Leaflet,5
+22,Carrickfergus,6,54.7136165,-5.8073112,Leaflet,5
+23,Kent,5,51.2070748,0.7210362,Leaflet,5
+24,Kent,4,51.2070748,0.7210362,Leaflet,5
+25,"Cheapside, London",10,51.5145727,-0.0966548,Leaflet,5
