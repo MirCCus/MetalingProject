@@ -66,5 +66,7 @@ Unless otherwise stated, the metadata in this corpus are released under an open 
 
 ## Project Information
 Project name: MetaLing Corpus Project
+Authors: Angela Andreani; Daniel Russo
 Focus: Linguistic metadata and historical corpora
 https://metaling.unimi.it/
+https://github.com/MirCCus/MetalingProject
